@@ -403,19 +403,19 @@ body {
   .table__section {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
     }
 
   .table__section-two {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
   .table__section-three {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
   .section__wrap {
@@ -596,7 +596,7 @@ body {
 
   .wrap__image {
     width: 76vw;
-    height: 11.08vh;
+    height: 90px;
   }
 }
 
